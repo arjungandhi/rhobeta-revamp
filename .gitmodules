@@ -1,0 +1,3 @@
+[submodule "themes/rhobeta"]
+	path = themes/rhobeta
+	url = https://github.com/arjungandhi/rho-beta-hugo-theme
