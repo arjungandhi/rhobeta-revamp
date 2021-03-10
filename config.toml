@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://examplesite.com"
+baseURL = "https://arjungandhi.github.io/rhobeta-revamp/"
 title = "Rho Beta Epsilon"
 theme = "rhobeta"
 # post pagination
