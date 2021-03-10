@@ -22,5 +22,10 @@ jobs:
 
       - name: Build
         run: hugo --minify
-
+      
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          personal_token: ${{ secrets.TOKEN }}
+          publish_dir: ./public
       
