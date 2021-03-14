@@ -1,12 +1,11 @@
 ############################### Banner ################################
 banner:
   enable : true
-  bg_image_webp : "images/backgrounds/hero-area.webp"
-  bg_image : "images/backgrounds/hero-area.jpg"
+  bg_image : "images/gallery/IMG_4043.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "Experience the new reality"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi. At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!"
+  title : "Rho Beta Epsilon"
+  content : "The mission of Rho Beta Epsilon is to encourage and recognize exemplary robotics students while aiding in their development both personally and professionally through exceptional education, leadership, and passion for robotics as well as to enable the advancement of the robotics engineering community."
   button:
     enable : true
-    label : "Explore Us"
-    link : "#services"
+    label : "Learn More"
+    link : "#about"

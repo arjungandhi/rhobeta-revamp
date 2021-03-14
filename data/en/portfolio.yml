@@ -1,76 +1,88 @@
 #################################### portfolio ###############################
 portfolio:
   enable : true
-  title : Our Works
+  title : Companies We Are At
   portfolio_item :
     # portfolio item loop
     - name : Tag Design
-      image : images/portfolio/portfolio-1.jpg
-      image_webp : images/portfolio/portfolio-1.webp
+      image : images/portfolio/logos/1_tHXPVLP294z8dcZwkL3wHw.png
       categories : ["design"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "https://themefisher.com"
       
     # portfolio item loop
     - name : Sound system
-      image : images/portfolio/portfolio-2.jpg
-      image_webp : images/portfolio/portfolio-2.webp
+      image : images/portfolio/logos/368px-Google_2015_logo.png
       categories : ["development"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : ""
       
     # portfolio item loop
     - name : Clock Product
-      image : images/portfolio/portfolio-3.jpg
-      image_webp : images/portfolio/portfolio-3.webp
+      image : images/portfolio/logos/1280px-Amazon_logo.png
       categories : ["design", "development"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
       
     # portfolio item loop
     - name : Bottol Label
-      image : images/portfolio/portfolio-4.jpg
-      image_webp : images/portfolio/portfolio-4.webp
+      image : images/portfolio/logos/alert.png
       categories : ["photography", "development"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
       
     # portfolio item loop
     - name : Shopping Bag
-      image : images/portfolio/portfolio-5.jpg
-      image_webp : images/portfolio/portfolio-5.webp
+      image : images/portfolio/logos/irobot.png
       categories : ["design"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
       
     # portfolio item loop
     - name : Tag Design
-      image : images/portfolio/portfolio-6.jpg
-      image_webp : images/portfolio/portfolio-6.webp
+      image : images/portfolio/logos/aurora-flight-sciences-vector-logo.png
       categories : ["photography"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
       
     # portfolio item loop
     - name : Business Card
-      image : images/portfolio/portfolio-7.jpg
-      image_webp : images/portfolio/portfolio-7.webp
+      image : images/portfolio/logos/BAE-Systems-Logo.png
       categories : ["development"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
       
     # portfolio item loop
     - name : Stationary Design
-      image : images/portfolio/portfolio-8.jpg
-      image_webp : images/portfolio/portfolio-8.webp
+      image : images/portfolio/logos/boston_dynamics.png
       categories : ["design", "development"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
       
     # portfolio item loop
     - name : Tag Design
-      image : images/portfolio/portfolio-2.jpg
-      image_webp : images/portfolio/portfolio-2.webp
+      image : images/portfolio/logos/download.png
       categories : ["design", "photography"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
+
+    # portfolio item loop
+    - name : Tag Design
+      image : images/portfolio/logos/EA_logo_logotype.png
+      categories : ["design", "photography"]
+      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      link : "#"
+
+    - name : Tag Design
+      image : images/portfolio/logos/spacex.png
+      categories : ["design", "photography"]
+      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      link : "#"    # portfolio item loop
+    - name : Tag Design
+      image : images/portfolio/logos/vex.png
+      categories : ["design", "photography"]
+      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      link : "#"
+
+
+      

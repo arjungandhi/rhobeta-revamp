@@ -1,6 +1,6 @@
 ##################################### pricing ##############################
 pricing:
-  enable : true
+  enable : false
   title : Our Plans
   pricing_table :
     # pricing table loop
@@ -34,7 +34,7 @@ pricing:
         link : "#"
         
     # pricing table loop
-    - name : Gold
+    - name : Goldtrue
       price : $199
       unit : month
       services:

@@ -3,14 +3,15 @@ about:
   enable : true
   title : About Us
   about_item :
-  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-    title : We're Creative
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
-
   - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-    title : We're Professional
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    title : Why Join?
+    content : To be recognized as having demonstrated excellence in the field of robotics and contributing to the enhancement of the community. 
 
-  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
-    title : We're Genius
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  - icon : ti-book # themify icon pack : https://themify.me/themify-icons
+    title : How to Join?
+    content : Eligible students will be invited to apply by their institutions’ chapters during the fall or spring semesters. 
+
+  - icon : ti-user # themify icon pack : https://themify.me/themify-icons
+    title : Who Can Join?
+    content : The top 35% precent of a class will be invited to join their institutions’ chapters. To start a chapter at your univerity contact us below!
+
